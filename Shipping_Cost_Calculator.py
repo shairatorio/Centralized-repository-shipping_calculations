@@ -1,4 +1,4 @@
- # Here is a new update by shairatorio
+ # Here is a new update by <your GitHub username>
 
 # Shipping Cost Calculator
 
